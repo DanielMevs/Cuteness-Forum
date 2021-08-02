@@ -1,2 +1,2 @@
 # Cuteness-Forum
-A web page I made for a cute cat named Boone. Make sure to npm install to get all dependencies 
+A web page I made for Boone, the world's cutest cat, in React. Make sure to npm install to get all dependencies 
